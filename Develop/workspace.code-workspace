@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Develop",
+			"path": "."
+		},
+		{
+			"name": "Assets",
+			"path": "..\\Assets"
+		},
+		{
+			"name": "Note_taker",
+			"path": "..\\..\\..\\..\\homework-folder\\Note_taker"
+		}
+	],
+	"settings": {}
+}
